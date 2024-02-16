@@ -136,7 +136,7 @@ EOF
     #--------------------------------#
     # install packages from the list #
     #--------------------------------#
-    ./install_pkg.sh install_pkg.lst
+    ./install_pkg.sh
     rm install_pkg.lst
 
 fi
